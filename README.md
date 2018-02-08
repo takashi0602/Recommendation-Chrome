@@ -1,4 +1,7 @@
 # インストール
+```
+npm install
+```
 
 ```
 npm install gulp
