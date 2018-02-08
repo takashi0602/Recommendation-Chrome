@@ -1,0 +1,42 @@
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.msg-area {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.msg {
+  font-size: 1.2em;
+}
+
+.description {
+  color: #999;
+  font-size: 14px;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 4px;
+  text-align: center;
+  padding: .8rem 0;
+  width: 240px;
+  box-sizing: border-box;
+  background-color: #ba3a32;
+  color: white;
+  margin-top: 2.5rem;
+}
+
+.btn:hover {
+  transition: all .4s;
+  background: #e28781;
+  color: white;
+}
